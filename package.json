@@ -1,0 +1,32 @@
+{
+  "name": "how-to-share-variables-using-webpack",
+  "version": "1.0.0",
+  "description": "Source for the article",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Furry Cat",
+    "email": "furrycat.web@gmail.com",
+    "url": "https://cat-in-web.ru"
+  },
+  "homepage": "https://www.cat-in-web.ru/how-to-share-variables-using-webpack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohnatus/how-to-share-variables-with-webpack.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^3.4.2",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
